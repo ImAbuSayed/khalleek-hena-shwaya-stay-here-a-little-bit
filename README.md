@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/khalleek-hena-shwaya-stay-here-a-little-bit/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Khalleek Hena Shwaya – Stay here a little bit.](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Khalleek Hena Shwaya – Stay here a little bit.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
